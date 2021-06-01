@@ -2,7 +2,7 @@
 
 
 ## About the Project
-The project has been carried out by <li><a href = "https://github.com/Parmo7"> Parminder Saini </a></li>, as part of the second-year module "Internet Applications & Techniques".
+The project has been carried out by <a href = "https://github.com/Parmo7"> Parminder Saini </a>, as part of the second-year module "Internet Applications & Techniques".
 
 ### The Task
 The task is to develop a website for an organisation called "Aston Animal Sanctuary". They run a sanctuary where animals are looked after before being adopted by members of the public. 
